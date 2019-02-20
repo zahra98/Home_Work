@@ -1,4 +1,4 @@
-<project default="test">
+<project default="compile">
 <property name ="src.java.dir" location="/Users/Shared/Jenkins/Home/workspace"/>
 <property name ="src.test.dir" location="/Users/Shared/Jenkins/Home/workspace/Home Work1/src"/>
 <property name ="result.dir" location="./target"/>
